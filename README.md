@@ -36,3 +36,5 @@ PROCESSOS CALCULADOS PELO PROGRAMA:
                3. umificação adiabática:dado umidade relativa final
                4. umificação adiabática:dado razão de mistura final
                5. mistura de dois fluxos de ar
+---------------------------------------------------------- 
+
