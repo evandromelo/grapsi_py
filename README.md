@@ -1,5 +1,5 @@
 # grapsi_py
-**GRAPSI** - **GRA**fico **PSI**crometrico em Python. 
+**GRAPSI** - **GRA**fico **PSI**crometrico em Python.  
 Calcula as propriedades termodinâmicas do ar úmido para altitudes até 3.000 m.  
 São realizados cálculos de PONTO DE ESTADO e PROCESSOS.  
 Projeto escrito em Pyton 3.8. As equações utilizadas no programa baseiam-se nas informações validadas pela AHSARE (www.ashrae.org).  
